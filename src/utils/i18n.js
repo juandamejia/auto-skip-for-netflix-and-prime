@@ -21,6 +21,12 @@ export const i18nMap = {
     skip_recap: "Skip Recap",
     skip_ads: "Skip",
   },
+   es_LT: {
+    skip_intro: "Omitir intro",
+    next_epi: "Siguiente episodio",
+    skip_recap: "Omitir resumen",
+    skip_ads: "Saltar",
+  },
   es_ES: {
     skip_intro: "Omitir introducción",
     next_epi: "A continuación",
